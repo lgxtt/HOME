@@ -5,7 +5,7 @@ English | [Chinese](./README.md)
 Simple little homepage, had enough of the original one and made a new one
 </p>
 
-![lgxttの主页](https://s2.loli.net/2022/07/14/K5JigfvDoNewtuS.webp)
+![lgxttの主页](./screenshots/main.jpg)
 
 >The logo font on the home page has been compressed, so if you use a font other than this logo, it will change back to the default font, Here is the [full font](https://file.4everland.app/font/Other/Pacifico-Regular.ttf)  
 
