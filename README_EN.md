@@ -9,7 +9,6 @@ Simple little homepage, had enough of the original one and made a new one
 
 >The logo font on the home page has been compressed, so if you use a font other than this logo, it will change back to the default font, Here is the [full font](https://file.4everland.app/font/Other/Pacifico-Regular.ttf)  
 
-
 ### Functions
 
 - [x] Loading animation
